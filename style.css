@@ -102,7 +102,7 @@ h1{
 	font-weight: bold;
 	width:100%;
     height: 60vh;
-	background-image: url(images/c22.jpg);
+	background-image: url(../images/c22.jpg);
 	background-size: cover;
 	background-attachment: fixed;
 	padding-top:80px;
@@ -150,7 +150,7 @@ h1{
 }
 /*MENU*/
 .banner-background-menu{
-	background-image: url(images/burgers.jpg); 
+	background-image: url(../images/burgers.jpg);
 }
 .AB{
 	display: flex;
@@ -207,7 +207,7 @@ h1{
 	.EF{
 		display:flex;
 		justify-content: space-around;
-		margin-top: 
+
 	}
 	.C, .D{
 		display: none;
@@ -216,7 +216,7 @@ h1{
 
 /*EVENEMENTS*/
 .banner-background-evenements{
-	background-image: url(images/bieres.jpg);
+	background-image: url(../images/bieres.jpg);
 }
 @media only screen and (max-width: 768px){
 	.banner-background-evenements{
@@ -279,7 +279,7 @@ h1{
 }
 /*CONTACT*/
 .banner-background-contact{
-	background-image: url(images/tel.jpg);
+	background-image: url(../images/tel.jpg);
 	background-position-y: 70%;
 }
 form {
